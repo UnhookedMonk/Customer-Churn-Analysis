@@ -1,4 +1,4 @@
-# Team-Ankara-Churn-Analysis
+# Customer-Churn-Analysis
 Churn analysis for a telecommunications company
 
 ### Overview
